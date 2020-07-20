@@ -1,5 +1,8 @@
 ![N予備のロゴ](ab95671b-private.png)
 
+# 私の大好きな漫画の広告動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdVS1CwoWRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # About
 神奈川県に住む完全右脳型高校2年生。
 特技は歌とバイオリン。絵を描くことも好き。
