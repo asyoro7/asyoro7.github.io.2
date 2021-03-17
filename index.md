@@ -1,35 +1,20 @@
 ![N予備のロゴ](ab95671b-private.png)
 
 # 私の大好きな漫画の広告動画
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdVS1CwoWRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.openprocessing.org/sketch/934556/embed/" width="400" height="300"></iframe>
+<iframe src="https://openprocessing.org/sketch/1137855/embed/" width="400" height="400"></iframe>
 
 # About
-神奈川県に住む完全右脳型高校2年生。
-特技は歌とバイオリン。絵を描くことも好き。
-芸術面に特化しているがその為か、かなり個性的な性格。
-
-## Profile
-- Yorozu
-- 神奈川県
-- サイト作り
+N高等学校4期生週1生です。美術部に所属しております。
 
 # Skills
-使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
-- OS（Ubuntu）
-- Languages（JavaScript）
-- Engine,Frameworks (なし)
-- Tool,MiddleWare（なし）
-- 資格、免許（なし）
+- 音楽(声楽、ピアノ、バイオリン)
+- 美術(イラスト)
+- 資格(英検3級)
 
 # Works
-アピールできる活動内容を書きましょう。
-- [GitHub](https://asyoro7.github.io/)
-- [Qiita](なし)
 - 作った作品
-  - [作品1](なし)
-  - [作品2](なし)
+  - [作品1]
+  - [作品2]
 
-# History
-- 2019年 地元の公立中学を卒業し,私立向上高等学校に入学。その後7月にN高等学校に転入。
