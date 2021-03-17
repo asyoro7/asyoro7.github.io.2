@@ -1,7 +1,7 @@
 ![N予備のロゴ](ab95671b-private.png)
 
 # 私の推しているVtuber様方
-"https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w"
+https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
 
 <iframe src="https://openprocessing.org/sketch/1137855/embed/" width="400" height="400"></iframe>
 
