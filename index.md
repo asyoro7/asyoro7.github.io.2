@@ -1,7 +1,10 @@
 ![N予備のロゴ](ab95671b-private.png)
 
 # 私の推しているVtuber様方
-https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w
+[アルス・アルマル](https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w)
+[シェリン・バーガンディ](https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA)
+[森カリオペ](https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg)
+[がうる・ぐら](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g)
 
 <iframe src="https://openprocessing.org/sketch/1137855/embed/" width="400" height="400"></iframe>
 
